@@ -3,7 +3,7 @@ import 'package:intl/intl.dart';
 import '../../../../../backend/services/api_services.dart';
 import '../../../../backend/model/common/common_success_model.dart';
 import '../../../../backend/model/virtual_card/strowallet_models/strowallet_card_model.dart';
-import '../../../../backend/services/ strowallet_api_services.dart';
+import '../../../../backend/services/strowallet_api_services.dart';
 import '../../../../utils/basic_screen_import.dart';
 import '../../../../widgets/others/congratulation_widget.dart';
 import '../../../navbar/dashboard_controller.dart';
