@@ -5,7 +5,7 @@ import '../../backend/services/api_services.dart';
 import '../../utils/basic_screen_import.dart';
 
 class DashBoardController extends GetxController {
-  final CarouselController carouselController = CarouselController();
+  final CarouselSliderController carouselController = CarouselSliderController();
   final firstNameController = TextEditingController();
   final lastNameController = TextEditingController();
   final emailController = TextEditingController();
