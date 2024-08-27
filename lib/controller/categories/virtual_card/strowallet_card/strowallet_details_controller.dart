@@ -1,6 +1,6 @@
 import '../../../../backend/model/common/common_success_model.dart';
 import '../../../../backend/model/virtual_card/strowallet_models/strowallet_details_controller.dart';
-import '../../../../backend/services/ strowallet_api_services.dart';
+import '../../../../backend/services/strowallet_api_services.dart';
 import '../../../../backend/services/api_services.dart';
 import '../../../../utils/basic_screen_import.dart';
 import 'strowallelt_info_controller.dart';
