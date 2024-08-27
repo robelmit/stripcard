@@ -1,7 +1,7 @@
 import '/extensions/custom_extensions.dart';
 
 class ApiEndpoint {
-  static const String mainDomain = "https://stripcard.appdevs.net";
+  static const String mainDomain = "https://a.memiplatforms.com";
   static const String baseUrl = "$mainDomain/api";
   static String loginURL = '/user/login'.addBaseURl();
   static String registerURL = '/user/register'.addBaseURl();
