@@ -3,7 +3,7 @@ import 'package:get/get.dart';
 
 import '../../../../backend/model/common/common_success_model.dart';
 import '../../../../backend/model/virtual_card/strowallet_models/charge_strowallet_model.dart';
-import '../../../../backend/services/ strowallet_api_services.dart';
+import '../../../../backend/services/strowallet_api_services.dart';
 import '../../../../backend/services/api_services.dart';
 
 import '../../../../language/strings.dart';
